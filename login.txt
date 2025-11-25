@@ -1,2 +1,0 @@
-this is login module
-developed by senthil
