@@ -1,0 +1,240 @@
+Different Web URLs for Selenium
+-------------------------------
+https://www.saucedemo.com/
+https://demo.opencart.com/
+https://demo.nopcommerce.com/ - User credential expires very often - human verification is keep coming infinitely
+http://demowebshop.tricentis.com - rba.infotech2020@gmail.com / T
+https://blazedemo.com/
+https://petstore.octoperf.com/
+https://www.automationexercise.com/
+http://www.ebay.com - display pop up window to select user name
+https://opensource-demo.orangehrmlive.com - Admin -> Qulification -> Skills, add or delete skills 
+https://demo.openmrs.org/openmrs/login.htm - no register option
+https://demo.applitools.com/app.html - no working actions inside website
+https://demoblaze.com/ - sign up not working
+https://advantageonlineshopping.com/#/
+https://money.rediff.com/gainers
+https://register.rediff.com/register/register.php?FormName=user_details
+https://www.letskodeit.com/practice
+https://rahulshettyacademy.com/AutomationPractice/
+http://secure.smartbearsoftware.com/samples/TestComplete11/WebOrders/Login.aspx
+https://practice-automation.com/
+https://practice.expandtesting.com/
+https://practicetestautomation.com/
+http://demo.automationtesting.in/Alerts.html
+https://ishahomes.com
+https://www.quora.com/profile/Quora	
+https://www.snapdeal.com
+http://change2naturalfoods.com/  - not working
+https://www.shopify.in/
+http://leafground.com/
+https://www.rediff.com
+https://www.bookswagon.com/
+https://www.eduvidya.com/
+https://www.air.irctc.co.in/ 
+https://www.cleartrip.com/ 
+http://selenium-examples.nichethyself.com/
+https://demoqa.com/droppable/ 
+https://mail.rediff.com/cgi-bin/login.cgi 
+https://stqatools.com/demo/ 
+http://automationpractice.com/index.php
+http://cookbook.seleniumacademy.com/config.html 
+https://www.royalcaribbean.com/alaska-cruises 
+http://cookbook.seleniumacademy.com/Alerts.html 
+https://www.openlibrary.org/
+https://www.pepperfry.com/
+https://www.yatra.com/ 
+https://pixabay.com/
+http://examples.codecharge.com/TaskManager/Default.php
+https://www.jainbookagency.com/india-largest-online-book-store.aspx
+http://newtours.demoaut.com/index.php
+http://practice.automationtesting.in/
+https://petstore.octoperf.com/actions/Catalog.action
+https://www.naukri.com
+https://www.advantageonlineshopping.com/
+https://www.railyatri.in/train-ticket
+https://www.mi.com/in
+https://www.olx.in/en-in
+https://www.tinyminymo.com/
+
+SauceDemo.com (web UI)
+ultimateqa.com/automation (web UI)
+Sample E-commerce mobile app (Android, iOS)
+Cypress Real World App (web UI)
+GitHub Users Search (web UI, API)
+Contact List Web and API (web UI, API)
+RealWorld demo apps (web, React, Angular, Vue, Elm)
+Telerik Multi-Language Demo Site (web UI)
+Webdriveruniversity.com (web UI)
+ACME Demo Banking (web UI)
+Dave Haeffner’s Practice Site (web UI)
+ParaBank Bank Site (web, API)
+Restful-Booker (API)
+JSONPlaceholder (API)
+HTTPBin.org (API)
+PetStore (API)
+E-commerce Clothing Site (web)
+Demoqa (web)
+Compendiumdev.co.uk (web)
+React shopping cart (React JS)
+
+coursera.org
+bookmyshow.com
+emicalculator.net
+urbanladder.com
+tripadvisor.com
+justdial.com
+zigwheels.com
+polyzybazzar.com
+
+makemytrip.com
+http://funcorp.in/
+
+Ticket Booking:
+	bus ticket booking
+	train ticket - irctc - Group 3
+	flight ticket
+	movie ticket
+	cab booking
+	
+E-Commerce:
+	Flipkart - Group 1
+	Amazon
+	ebay
+	snapdeal
+
+Learn Courses
+=============
+https://freelance-learn-automation.vercel.app/login
+
+Food delivery:
+==============
+	swiggy
+	zomato
+	dominos
+	kfc
+	pizzahut
+	
+Medicals:
+	Appola
+	MedPlus
+	Pharmeasy
+	
+Hotel Booking:
+	oyo
+	
+Trip booking:
+
+Shopping:
+	Jio mart
+	Myntra - Group 2
+	Reliance
+	More
+	
+Video Stream:
+	prime video
+	Netflix
+	YouTube
+	
+Matrimonial:
+	TamilMartimonial
+	
+Hospital:
+
+crickbuszz
+Sports:
+
+Ads:
+	quikr
+	alibaba
+	olx
+
+Retail:
+	Ajio
+	Bigbazaar
+	Bigbaskt
+
+List of APIs
+------------
+https://rbainfotech.com/free-apis-for-testing/
+https://rbainfotech.com/api/api.php/cleanup
+
+https://reqres.in/
+https://jsonplaceholder.typicode.com/
+https://fakerestapi.azurewebsites.net/api/v1/Activities
+https://api.vschool.io/%5byour_name%5d/todo/
+https://restful-booker.herokuapp.com/apidoc/index.html
+
+
+https://httpbin.org/
+http://dummy.restapiexample.com/
+https://fakestoreapi.com/docs
+https://www.programmableweb.com/apis/directory
+https://developers.google.com/maps/documentation
+https://developer.github.com/v3/repos/
+https://petstore.swagger.io/ - not wroking 
+https://documenter.getpostman.com/view/4012288/TzK2bEa82 - not working
+http://20.235.240.100:8080/swagger-ui.html  
+https://petstore.swagger.io/#/pet/uploadFile
+
+
+For Java Full Stack Developers
+-------------------------------
+https://www.sourcecodeexamples.net/
+Spring Boot Code - https://github.com/darbyluv2code/spring-boot-3-spring-6-hibernate-for-beginners
+
+MCQs
+-----
+https://www.javaguides.net/p/java-daily-quiz.html
+https://www.indiabix.com/java-programming/questions-and-answers/
+https://www.sanfoundry.com/1000-html-questions-answers/
+https://www.sanfoundry.com/java-questions-answers-freshers-experienced/
+
+
+
+Coding Challenge Practise
+----------------
+https://www.hackerrank.com/dashboard
+https://www.hackerrank.com/Edabit/
+https://leetcode.com/
+https://leetcode.com/problemset/
+https://www.codility.com/
+https://app.codility.com/programmers/lessons/1-iterations/
+https://app.codility.com/demo/take-sample-test/
+https://mettl.com/
+https://edabit.com/
+https://exercism.org/
+https://www.codechef.com/
+https://codeforces.com/
+
+
+Hackthon Project
+----------------
+www.practo.com
+--------------
+1. https://www.practo.com/
+2. Enter "Hydrabad" in location text box
+3. Enter "General Physician" in Specilist
+4. Display total no of doctors
+5. Display all name of the doctors
+7. click on 4th docker
+8. Display Clical Appointment Fee
+
+Guidelines
+1. Entire Script should be POM Based
+2. Use Data Driven Framework
+3. Use logging Framework
+4. Use Extent Report Framework
+5. Capture Screenshot
+
+Data Driven
+Location 	Specialist	 		Nth Doctor
+Hydrabad	General Physician	4
+Mumbai		Dentist				10
+
+Interveiw Questions
+-------------------
+https://engineeringinterviewquestions.com/selenium-multiple-choice-questions/
+
+ 
+
